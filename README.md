@@ -1,0 +1,2 @@
+# Text-Classification-101
+In this repository I have build text classifiers using different approaches. The aim of this repository is to provide an overview of some of  the most commonly applied techniques along with practical advice on handling different scenarios and decisions that have to be made when building text classification systems in practice. I have introduced some common applications of text classification, ranging from the traditional methods to the state of the art.
